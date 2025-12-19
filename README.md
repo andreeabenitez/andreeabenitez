@@ -2,23 +2,25 @@
 
 Soy una desarrolladora full stack apasionada por la tecnología y el aprendizaje continuo.
 
-## 🌱 Actualmente estoy aprendiendo:
-- Estudiante del Málaga 42
-- JavaScript, HTML, CSS, Java, C, MySQL
-
-
-## 🛠️ Habilidades:
-- **Lenguajes de programación**: JavaScript, HTML, CSS, Java, C.
-- **Frameworks/Librerías**: React.
-- **Herramientas**: Git, GitHub.
-- **Bases de datos**: MySQL.
-- **Otras habilidades**: Desarrollo web, APIs RESTful.
-
 ## 🔍 Mis Proyectos Destacados:
 Aquí te dejo algunos de los proyectos que he desarrollado. ¡Echa un vistazo!
 
-- **Proyecto 1 https://github.com/andreeabenitez/Medical-Diagnosis-Project.git**: Práctica final. Tecnología utilizada: MySql
+- Proyecto notas Java Spring Boot **https://github.com/andreeabenitez/Projecto-notas**
+- Powee BI **https://github.com/andreeabenitez/Power-Bi-Zoomchart**
+- PokeApi **https://github.com/andreeabenitez/Poke-Api**
+- Proyecto MySQL **https://github.com/andreeabenitez/Medical-Diagnosis-Project.git**
+
+
+## 🛠️ Habilidades:
+- **Lenguajes de programación/marca**: JavaScript, HTML, CSS, Java, Phyton.
+- **Frameworks/Librerías**: React, Spring Boot.
+- **Herramientas**: Git, GitHub.
+- **Bases de datos**: MySQL.
+- **Otras habilidades**: Desarrollo web, APIs RESTful, Power BI.
+
+ Estudiante del Málaga 42
+
 
 ## 📫 Cómo contactar conmigo:
 - 📧 Correo: andrea_1996_melli@hotmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/andrea-benitez-brenes-8a250715a
+- 🔗 LinkedIn: www.linkedin.com/in/andrea-benitez-brenes
